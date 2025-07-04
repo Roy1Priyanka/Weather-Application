@@ -13,6 +13,9 @@ A simple and responsive weather application that lets users check the current we
 
 - Clean and minimal UI design
 
+  📸 Demo
+
+![Weather App](https://github.com/Roy1Priyanka/Weather-Application/blob/main/Screenshot.png)
 
 🛠️ Tech Stack
 - HTML
